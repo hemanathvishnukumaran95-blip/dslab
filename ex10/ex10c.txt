@@ -1,0 +1,29 @@
+-----INSERTION SORT-----
+enter the number of elements:4
+enter 4 elements:
+1
+56
+23
+78
+
+ Menu: 
+1. Sort using Insertion sort
+2. Print the sorted array
+3. Exit
+Enter your choice:1
+Array sorted using Insertion Sort.
+
+ Menu: 
+1. Sort using Insertion sort
+2. Print the sorted array
+3. Exit
+Enter your choice:2
+Sorted array:1235678
+
+ Menu: 
+1. Sort using Insertion sort
+2. Print the sorted array
+3. Exit
+Enter your choice:3
+Exiting the program.
+
